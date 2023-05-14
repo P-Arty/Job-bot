@@ -1,0 +1,6 @@
+.idea/
+tgvenv/
+*.pyc
+.env
+*.log
+config.py
