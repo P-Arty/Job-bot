@@ -76,10 +76,6 @@ class Parser:
             except Exception as ex:
                 print(ex)
                 continue
-   
-    @classmethod
-    def getter(cls):
-        return len(cls.__page_vacancy_urls)
 
 
 
